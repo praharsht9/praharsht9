@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/05c04c897f273c333a15852f1284db3cbc658c684be4d194a56a551793f7a0a7/68747470733a2f2f7777772e746563686e6f6c6f616465722e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30312f486972652d52656163742d4e61746976652e676966)]
 <h1 align="center">Hi 👋, I'm Praharsh Tembhurne</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praharsht9&label=Profile%20views&color=0e75b6&style=flat" alt="praharsht9" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praharsht9" alt="praharsht9" /></a> </p>
